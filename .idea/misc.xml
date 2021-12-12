@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/program learning/Mykotlin2-64/app/src/main/res/layout/activity_home.xml" value="0.246875" />
         <entry key="..\:/program learning/Mykotlin2-64/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/program learning/Mykotlin2-64/app/src/main/res/layout/custom_tab_menu.xml" value="0.13229166666666667" />
         <entry key="..\:/program learning/Mykotlin2-64/app/src/main/res/layout/fragment_home.xml" value="0.21458333333333332" />
       </map>
     </option>
